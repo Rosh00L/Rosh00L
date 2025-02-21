@@ -1,5 +1,5 @@
 
-Hello 
+# 👋 Welcome to my GitHub page,
 ---
 # 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-217346?style=flat&logo=microsoft-sql&logoColor=white) 
