@@ -1,6 +1,6 @@
 
 # 👋 Welcome to my GitHub page,
----
+
 # 💻 Tech Stack:
 ![SQL](https://img.shields.io/badge/SQL-217346?style=flat&logo=microsoft-sql&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
