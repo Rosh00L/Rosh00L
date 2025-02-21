@@ -39,7 +39,7 @@ Hello
 
 ### My favorite projects 
 
-* [Shopee Sales Analysis](https://rosh00l.github.io/EcoCapture/)
+* [Project Overview](https://rosh00l.github.io/EcoCapture/)
   
 [![](https://visitcount.itsvg.in/api?id=Rosh00L&icon=0&color=0)](https://visitcount.itsvg.in)
 
