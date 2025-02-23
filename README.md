@@ -39,7 +39,7 @@
 
 ### My favorite projects 
 
-* [Project Overview](https://rosh00l.github.io/EcoCapture/)
+* [Analysing photography holidays in Sri Lanka](https://rosh00l.github.io/EcoCapture/)
   
 [![](https://visitcount.itsvg.in/api?id=Rosh00L&icon=0&color=0)](https://visitcount.itsvg.in)
 
