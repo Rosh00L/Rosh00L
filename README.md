@@ -24,8 +24,9 @@
 ### Visualisation
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=falt&logo=microsoft-excel&logoColor=white)
 ![RStudio](https://img.shields.io/badge/shiny-blue?style=flat&logo=rstudio&logoColor=75AADB)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=falt&logo=microsoft-excel&logoColor=white)
+
 
 
 ---
