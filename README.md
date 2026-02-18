@@ -6,6 +6,7 @@
 
 ###	Platforms
 ---
+![Windows](https://img.shields.io/badge/Windows-10%20&%2011-blue)
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 ###	Programming & Scripting
