@@ -33,7 +33,6 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![RStudio](https://img.shields.io/badge/shiny-blue?style=flat&logo=rstudio&logoColor=75AADB)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=falt&logo=microsoft-excel&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 ###	Tools & Software: 
