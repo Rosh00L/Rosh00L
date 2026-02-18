@@ -11,6 +11,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 ###	Programming & Scripting
 
+![SAS](https://img.shields.io/badge/SAS-Software-0078AE?style=flat)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-217346?style=flat&logo=microsoft-sql&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -18,8 +20,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![Plotly](https://img.shields.io/badge/scikit-learn.svg)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-Software-0078AE?style=flat)
+
 
 ---
 ###	Database Tools
