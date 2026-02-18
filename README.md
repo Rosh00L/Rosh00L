@@ -2,7 +2,6 @@
 # 👋 Welcome to my GitHub page,
 
 # 💻 Tech Stack:
----
 
 ###	Platforms
 
