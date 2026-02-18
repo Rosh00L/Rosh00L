@@ -56,7 +56,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh00L&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-### My favorite projects 
+### My favorite projects
+
+* [Setting Up Cybersecurity Analyst Lab at Home](https://rosh00l.github.io/Vulnerability_Assessment_Lab/)
 
 * [Analysing photography holidays in Sri Lanka](https://rosh00l.github.io/EcoCapture/)
   
