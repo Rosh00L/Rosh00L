@@ -3,6 +3,11 @@
 
 # 💻 Tech Stack:
 ---
+
+###	Platforms
+---
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 ###	Programming & Scripting
 
 ![SQL](https://img.shields.io/badge/SQL-217346?style=flat&logo=microsoft-sql&logoColor=white) 
@@ -40,7 +45,7 @@
 
 ---
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+
 
 ---
 ### Photography
