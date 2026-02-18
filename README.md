@@ -5,12 +5,13 @@
 ---
 
 ###	Platforms
----
+
 ![Windows](https://img.shields.io/badge/Windows-10%20&%2011-blue)
 ![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
-###	Programming & Scripting
 
+---
+###	Programming & Scripting
 ![SAS](https://img.shields.io/badge/SAS-Software-0078AE?style=flat)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-217346?style=flat&logo=microsoft-sql&logoColor=white) 
